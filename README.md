@@ -19,7 +19,6 @@ This project aims to create a secure and decentralized system for document verif
 ## Installation
 
 1. Clone this repository: 
-   ``https://github.com/DevAloshe/BlockChain-Based-Document-Verfication-With-IPFS.git``
 
 
 2. Install the required packages:
@@ -42,9 +41,6 @@ This project aims to create a secure and decentralized system for document verif
 
 4. The system will display a message indicating whether the document is authentic or not.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
 - Metamask documentation
